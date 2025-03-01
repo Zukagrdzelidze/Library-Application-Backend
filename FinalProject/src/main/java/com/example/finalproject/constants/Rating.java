@@ -1,6 +1,6 @@
 package com.example.finalproject.constants;
 
-public interface Rating {
-    int MAX = 10;
-    int MIN = 1;
+public class Rating {
+    public static final int MAX = 10;
+    public static final int MIN = 1;
 }

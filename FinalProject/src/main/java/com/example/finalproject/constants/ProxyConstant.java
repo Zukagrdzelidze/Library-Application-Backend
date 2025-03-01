@@ -1,5 +1,5 @@
 package com.example.finalproject.constants;
 
-public interface ProxyConstant {
-    String HOSTNAME = "thegate.bog.ge";
+public class ProxyConstant {
+    public static final String HOSTNAME = "thegate.bog.ge";
 }
